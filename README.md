@@ -38,6 +38,7 @@
     </body>
 </html>
 # index_blade
+**
 @extends('layouts.app')
 @section('content')
 
@@ -373,4 +374,4 @@
         });
     </script>
 @endsection
-
+**
